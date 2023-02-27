@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node": "^19.6.1"
+  },
+  "name": "Vine-Shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/savamaxxx/Vine-Shop.git",
+  "author": "Максим <105449753+savamaxxx@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+  "compile-css":"sass style.scss style.css --watch"
+  }
+}
