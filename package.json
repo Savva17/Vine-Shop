@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "node": "^19.6.1"
+    "node": "^19.6.1",
+    "sal.js": "^0.8.5"
   },
   "name": "Vine-Shop",
   "version": "1.0.0",
@@ -9,6 +10,6 @@
   "author": "Максим <105449753+savamaxxx@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-  "compile-css":"sass style.scss style.css --watch"
+    "compile-css": "sass style.scss style.css --watch"
   }
 }
